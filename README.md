@@ -3,6 +3,5 @@
 ローカルリポで変更　　
 rebase-practiceブランチで更新(rebase コンフリクト用)
 rebase pull用
-stash練習
-stash練習2回目
+stash練習(already tracked)
 
